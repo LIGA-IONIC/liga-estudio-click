@@ -1,6 +1,6 @@
-# Missão 10 · Estúdio Click
+# Projeto 10 · Estúdio Click
 
-## Lore
+## Contexto
 Estúdio de foto da turma: pacotes de ensaio e reserva.
 
 ## Itens sugeridos
@@ -12,13 +12,13 @@ Estúdio de foto da turma: pacotes de ensaio e reserva.
 | Extra 10 fotos | R$ 25 | |
 | Making of | R$ 60 | esgotado na agenda |
 
-## Boss (obrigatório)
+## Regra do tema (obrigatória)
 Reserva precisa de **data (texto ou campo)** preenchida.
 Se tentar reservar sem data: mensagem na tela.
 Pacote esgotado não reserva.
 
-## Cofre (Firestore)
+## Firestore
 Coleção: `reservas_click` (aluno, pacotes, data, total).
 
-## Rank sugerido da guilda
-Cor: cinza foto / azul gelo
+## Visual sugerido
+Cor: cinza / azul gelo
