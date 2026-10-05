@@ -1,24 +1,13 @@
-# Projeto 10 · Estúdio Click
+﻿# Estúdio Click
 
-## Contexto
-Estúdio de foto da turma: pacotes de ensaio e reserva.
+## O que fazer
+1. Abra **`PRINTS.html`** neste repo (é o gabarito visual).
+2. Monte o app **parecido com o print** (não precisa ser idêntico).
+3. A regra do tema está **nas telas do print** — observe totais, badges e mensagens.
+4. Cada semana o professor libera issues novas. Faça só as da semana aberta.
 
-## Itens sugeridos
-| Pacote | Preço | Detalhe |
-|--------|-------|---------|
-| Retrato 15 min | R$ 40 | |
-| Ensaio 30 min | R$ 80 | |
-| Turma completa | R$ 150 | |
-| Extra 10 fotos | R$ 25 | |
-| Making of | R$ 60 | esgotado na agenda |
+## Stack
+Node **22.23.1** · Ionic **9** standalone · Firebase de vocês
 
-## Regra do tema (obrigatória)
-Reserva precisa de **data (texto ou campo)** preenchida.
-Se tentar reservar sem data: mensagem na tela.
-Pacote esgotado não reserva.
-
-## Firestore
-Coleção: `reservas_click` (aluno, pacotes, data, total).
-
-## Visual sugerido
-Cor: cinza / azul gelo
+## Entrega
+Link do seu **fork** + demo: login → lista → regra do print → Firestore
